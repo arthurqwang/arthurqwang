@@ -1,7 +1,9 @@
 # About me
 
 ## Arthur Q. W.
-### Founder of Thought of Big Systems View, Programmer
+### ☑️ As the Founder of Thought of Big Systems View
+### ☑️ As the Author of _Big Systems View_
+### ☑️ As an Old Programmer Keeping Coding
 
 Here are some ideas to get you started:
 
