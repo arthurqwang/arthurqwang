@@ -1,6 +1,7 @@
 # About me
 
-## I am Arthur
+## Arthur Q. W.
+### Founder of Thought of Big Systems View, Programmer
 
 Here are some ideas to get you started:
 
