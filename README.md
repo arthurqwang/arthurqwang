@@ -2,24 +2,21 @@
 
 ## Arthur Q. W.
 ### ☑️ As the Founder of Thought of Big Systems View
+Based on traditional systems theory and systems engineering ideas, combined with our own long-term and rich experience in information and digital construction, we propose a new concept of large-scale systems, which mainly includes system structure dynamics, holographic organic system theory, large-scale system philosophy and methodology, and apply it to the fields of digital/intelligent oil fields and AI development applications.
 ### ☑️ As the Author of _Big Systems View_
+### ☑️ As the Proposer of Concept of Digital Oilfield
 ### ☑️ As an Old Programmer Keeping Coding
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 自我介绍
 
-# OK
+## 阿色树新风
+### ☑️ 大系统观创立者
+This is 1 aa 
+### ☑️ 《大系统观》作者
+### ☑️ As an Old Programmer Keeping Coding
 
-
-
+基于传统的系统论和系统工程思想，结合自身长期、丰富的信息化、数智化建设经验，提出了全新的大系统观思想：主要包括系统结构动力学、全息有机系统论、大系统哲学和方法论，并将其应用于数字/智能油田和AI开发应用领域。
 
 
 
