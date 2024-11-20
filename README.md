@@ -1,3 +1,4 @@
+[中文](#自我介绍)
 # About me
 
 ## Arthur Q. W. (ArthurTreeNewBee)
