@@ -152,7 +152,7 @@ http://www.holomind.com.cn <br>
 </table>
 <br>
 
-### ☑️ 阿色全息脑图（AHMM）的发明者和软件作者
+### ☑️ 阿色全息脑图（AHMM）发明者和软件作者
 <table border="10">
     <td>
     <br>
