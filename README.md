@@ -91,6 +91,11 @@ It has some magical characteristics of a holographic organic system: data and ex
     </td>
   </tr>
 </table>
+
+### Welcome to Web Site / WeChat Official Account of BSV
+http://www.holomind.com.cn <br>
+<img alt="BSV Logo" src="./_/wechat_code.jpg">
+
 <br><br>
 <br>
 
@@ -185,3 +190,7 @@ It has some magical characteristics of a holographic organic system: data and ex
     </td>
   </tr>
 </table>
+
+### 欢迎访问大系统观官网 / 微信公众号
+http://www.holomind.com.cn <br>
+<img alt="BSV Logo" src="./_/wechat_code.jpg">
