@@ -10,7 +10,7 @@
     Proposed a pioneering thought, the idea of Big Systems View (BSV), based on traditional systems theory and systems engineering thinking, and combined with own long-term and rich experience in IT systems construction.<br><br>
     BSV mainly includes System Structure Dynamics, Holographic Organic System Theory, BSV Philosophy and relevant methodologies, which are applied in the domain of Digital/Intelligent Oilfields and AI development applications.<br><br>
     </td>
-    <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/100.jpg"></td>
+    <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/BSV_Logo_200.jpg"></td>
   </tr>
 </table>
 
@@ -36,7 +36,7 @@ Based on the version 1.0 of the original book, various materials (PPT courseware
     基于传统的系统论和系统工程思想，结合自身长期、丰富的信息化、数智化建设经验，开创性地提出了全新的大系统观思想。<br><br>
     大系统观思想主要包括系统结构动力学、全息有机系统论、大系统哲学和方法论，在其应用于数字/智能油田、大型企业与组织数智化建设和AI开发领域的过程中，显示出了重要指导作用。<br><br>
     </td>
-    <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/100.jpg"></td>
+    <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/BSV_Logo_200.jpg"></td>
   </tr>
 </table>
 
