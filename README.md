@@ -128,7 +128,24 @@ It has some magical characteristics of a holographic organic system: data and ex
 </table>
 <br>
 
-
+### ☑️ 阿色全息脑图（AHMM）的发明者和软件作者
+<table border="10">
+    <td>
+    <br>
+    2022年，应用大系统观思想原理，发明了一种新的思维导图——阿色全息脑图（AHMM, Arthur's Holographic Mind Map），并用 JavaScript 开发了专用软件，至今仍在持续更新。<br><br>
+    </td>
+    <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    AHMM 用于系统升维思考。世间每项事物都是一个系统，都有一个核心 —— 吸引子@。全息脑图以系统的观点看待世界，专注系统的结构信息——全息，抓住事物的本质，透过表象和数据发现规律。<br><br>
+    阿色全息脑图制作软件 ahmm.html，可在线使用，也可下载后离线使用。
+它具有神奇的全息有机系统的特点：数据与执行码一体化，能自己给自己保存数据，并能够无限运行繁衍，即生成的脑图可以继续生成下一代脑图。
+      <br><br>
+    </td>
+  </tr>
+</table>
+<br>
 
 
 ### ☑️ As an Old Programmer Keeping Coding
