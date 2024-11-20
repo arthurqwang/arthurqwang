@@ -1,6 +1,6 @@
 #### [中文🔃](#english)
 # About Me
-## Arthur Q. W. (ArthurTreeNewBee)
+## Arthur Q. W. (ArthurTreeNewBee): a Thinker Keeping Coding
 ### ☑️ As the Founder of Thought of [Big Systems View]
 <table border="10">
   <tr>
@@ -101,7 +101,7 @@ http://www.holomind.com.cn <br>
 
 #### [English🔃](#中文)
 # 自我介绍
-## 阿色树新风
+## 阿色树新风: 坚持编程的思想者
 ### ☑️ [大系统观]创立者
 <table border="10">
   <tr>
@@ -171,7 +171,7 @@ http://www.holomind.com.cn <br>
 <br>
 
 
-### ☑️ 保持编程/思考的老程序猿
+### ☑️ 坚持编程/思考的老程序猿
 <table border="10">
     <td>
     <br>
