@@ -2,7 +2,7 @@
 # About me
 
 ## Arthur Q. W. (ArthurTreeNewBee)
-### ☑️ As the Founder of Thought of Big Systems View
+### ☑️ As the Founder of Thought of [Big Systems View]
 <table border="10">
   <tr>
     <td>
@@ -15,12 +15,12 @@
 </table>
 <br>
 
-### ☑️ As the Author of _Big Systems View_
+### ☑️ As the Author of [_Big Systems View_]
 <table border="10">
   <tr>
     <td>
       <br>In 2016, completed the open source book:<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Big Systems View: Bigger outlook, bigger thinking, bigger frame, bigger promotion on the world<br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Big Systems View: Bigger outlook, bigger thinking, bigger frame, bigger promotion on the world<br><br>
       The book rejects the traditional publishing mode, and adopts the form of directly publishing the electronic version on the Internet and inviting everyone to co_compile it, setting a precedent for free and open source electronic books. <br><br>
       The book immediately caused a significant response in the relevant fields after its release.
     </td>
@@ -35,17 +35,19 @@
 </table>
 <br>
 
-### ☑️ As the Proposer of Concept of Digital Oilfield
+### ☑️ As the Proposer of Concept of [Digital Oilfield]
 <table border="10">
     <td>
-    In 1999, proposed the concept of Digital Oilfield at first globally, and published numerous academic papers such as "Research and Application of Digital Oilfield Construction Mode in Daqing Oilfield"  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.
-Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. Integrating knowledge with action, forming a profound theoretical foundation, and accumulating rich practical experience, proposed powerful methodologies for digital construction in large-scale enterprises  based on the philosophy of Big Systems View.
+    <br>
+    In 1999, proposed the concept of Digital Oilfield at first globally.<br><br>
+    Published numerous academic papers such as "Research and Application of Digital Oilfield Construction Mode in Daqing Oilfield"  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
+    Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
     </td>
-    <td><img alt="BSV Logo"  src="./_/DOF_DORA.jpg" height="200"></td>
+    <td><img alt="BSV Logo"  src="./_/DOF_DORA.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
-      在原书1.0版本基础上，通过不断迭代，形成了思想更加完备、内容更加丰富的各种资料（PPT课件、视频、公众号、文章等）。所有资料以及原书均可在互联网上检索并下载，或者，到【大系统观】官网：http://www.holomind.com.cn 下载。
+      Integrating knowledge with action, forming a profound theoretical foundation, and accumulating rich practical experience, proposed powerful methodologies for digital construction in large-scale enterprises  based on the philosophy of Big Systems View.
     </td>
   </tr>
 </table>
@@ -63,7 +65,7 @@ Simultaneously, exert all my strength to push the practices of Digital Oilfields
 # 自我介绍
 
 ## 阿色树新风
-### ☑️ 大系统观创立者
+### ☑️ [大系统观]创立者
 <table border="10">
   <tr>
     <td>
@@ -94,7 +96,7 @@ Simultaneously, exert all my strength to push the practices of Digital Oilfields
 </table>
 <br>
 
-### ☑️ 数字油田概念提出者
+### ☑️ [数字油田]概念提出者
 <table border="10">
     <td>
         2016年完成了开源著作：<br>
