@@ -77,7 +77,7 @@ It has some magical characteristics of a holographic organic system: data and ex
     <td>
     <br>
     Love programming, and switched from geophysical exploration to programming in the VMS/DOS/Unix era. <br><br>
-    Used various languages including FORTRAN, SQL, BASIC, C, HTML, ASP, JS, ..., and even Python, but now just for preventing myself from dementia in old age. <br><br>
+    Used various languages including FORTRAN, SQL, BASIC, C, HTML, ASP, JS, ..., and even Python, but now just for preventing myself from dementia in old age by coding. <br><br>
     </td>
     <td><img alt="BSV Logo"  src="./_/my_tools.png"></td>
   </tr>
