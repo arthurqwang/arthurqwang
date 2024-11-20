@@ -77,15 +77,17 @@ It has some magical characteristics of a holographic organic system: data and ex
 <table border="10">
     <td>
     <br>
-    In 2022, invented a new kind of mind map called Arthur's Holographic Mind Map (AHMM) based on the principles of the Big Systems View, and developed specialized software using JavaScript. It is still being continuously updated to this day.<br><br>
+    Loves programming, and switched from geophysical exploration to programming in the VMS/DOS/Unix era. <br><br>
+    Used various languages including FORTRAN, SQL, BASIC, C, HTML, ASP, JS, ..., and even Python, but now just for preventing myself from dementia in old age. <br><br>
     </td>
     <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
   </tr>
   <tr>
     <td colspan="2">
-    AHMM is used for system thinking with higher dimensions. Everything in the world is a system with a core, attractor @. AHMM observes the world from a systematic perspective, focusing on the structural information of the system, holography, and capturing the essence of things, then discovering patterns through appearances and data.<br><br>
-Software ahmm.html can be used online or downloaded for offline use.
-It has some magical characteristics of a holographic organic system: data and execution code are integrated, it can save data for itself, and can infinitely run and reproduce, that is, the generated AHMM can continue to generate the next generation.
+    Hosted and participated in various levels of informationization and digitization projects, including GJ Major Special Project ** Intelligent *** (sub project), Distributed Large Cloud Data Center, Intelligent Command Center of a super large enterprise, Internet of Things Industry Base, * * * Integrated Collaborative Research Platform, ERP, GIS/Beidou, UAV, and so on.<br><br>
+      Love thinking, love philosophy, love communication, love to implement ideas with code, and love to help young programmers solve cross-layer and cross-border problems.<br><br>
+      Ever studied and worked abroad for a long time, understood Western thinking, was good at combining Chinese and Western thought and culture, and had strong systematic thinking ability.<br><br>
+      My slogan is: Learn from Young People!
       <br><br>
     </td>
   </tr>
