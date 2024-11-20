@@ -1,7 +1,7 @@
 
 # About me
 
-## Arthur Q. W.
+## Arthur Q. W. (ArthurTreeNewBee)
 ### ☑️ As the Founder of Thought of Big Systems View
 <table border="10">
   <tr>
@@ -12,7 +12,6 @@
     </td>
     <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/100.jpg"></td>
   </tr>
-
 </table>
 
 
@@ -30,6 +29,19 @@ Based on the version 1.0 of the original book, various materials (PPT courseware
 
 ## 阿色树新风
 ### ☑️ 大系统观创立者
+<table border="10">
+  <tr>
+    <td>
+      <br>
+    基于传统的系统论和系统工程思想，结合自身长期、丰富的信息化、数智化建设经验，开创性地提出了全新的大系统观思想。<br><br>
+    大系统观思想主要包括系统结构动力学、全息有机系统论、大系统哲学和方法论，在其应用于数字/智能油田、大型企业与组织数智化建设和AI开发领域的过程中，显示出了重要指导作用。<br><br>
+    </td>
+    <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/100.jpg"></td>
+  </tr>
+</table>
+
+
+
 基于传统的系统论和系统工程思想，结合自身长期、丰富的信息化、数智化建设经验，开创性地提出了全新的大系统观思想：主要包括系统结构动力学、全息有机系统论、大系统哲学和方法论，并将其应用于数字/智能油田和AI开发应用领域。
 ### ☑️ 《大系统观》作者
 2016年完成了开源著作《大系统观：看世界的大视野大思维大格局大超越》。该书拒绝传统出版模式，采用在互联网上直接发布电子版并邀请大家共同编著的形式，开辟了免费开源电子著作的先例。该书发布后立即在领域内引起较大反响。
