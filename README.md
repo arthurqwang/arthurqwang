@@ -60,13 +60,13 @@
     <br>
     In 2022, invented a new kind of mind map called Arthur's Holographic Mind Map (AHMM) based on the principles of the Big Systems View, and developed specialized software using JavaScript. It is still being continuously updated to this day.<br><br>
     </td>
-    <td><img alt="BSV Logo"  src="./_/DOF_DORA.jpg"></td>
+    <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
   </tr>
   <tr>
     <td colspan="2">
     AHMM is used for system thinking with higher dimensions. Everything in the world is a system with a core, attractor @. AHMM observes the world from a systematic perspective, focusing on the structural information of the system, holography, and capturing the essence of things, then discovering patterns through appearances and data.<br><br>
 Software ahmm.html can be used online or downloaded for offline use.
-It has the characteristics of a magical holographic organic system: data and execution code are integrated, it can save data for itself, and can infinitely run and reproduce, that is, the generated AHMM can continue to generate the next generation.
+It has some magical characteristics of a holographic organic system: data and execution code are integrated, it can save data for itself, and can infinitely run and reproduce, that is, the generated AHMM can continue to generate the next generation.
       <br><br>
     </td>
   </tr>
