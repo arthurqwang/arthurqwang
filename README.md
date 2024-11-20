@@ -1,6 +1,5 @@
+### [中文](#english)
 # About me
-[中文](#自我介绍)
-
 ## Arthur Q. W. (ArthurTreeNewBee)
 ### ☑️ As the Founder of Thought of [Big Systems View]
 <table border="10">
@@ -95,9 +94,8 @@ It has some magical characteristics of a holographic organic system: data and ex
 <br><br>
 <br>
 
+### [English](#中文)
 # 自我介绍
-[English](#about-me)
-
 ## 阿色树新风
 ### ☑️ [大系统观]创立者
 <table border="10">
