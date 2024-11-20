@@ -83,7 +83,7 @@ It has some magical characteristics of a holographic organic system: data and ex
   </tr>
   <tr>
     <td colspan="2">
-    Hosted and participated in various levels of informationization and digitization projects, including GJ Major Special Project ** Intelligent *** (sub project), Distributed Large Cloud Data Center, Intelligent Command Centers of some super large enterprises, Internet of Things Industry Base, * * * Integrated Collaborative Research Platform, ERP, GIS/Beidou, UAV, and so on.<br><br>
+    Hosted and participated in various levels of informationization and digitization projects, including GJ Major Special Project ** Intelligent *** (sub project), Distributed Large Cloud Data Center, Intelligent Command Centers of some super large enterprises, Internet of Things Industry Base, * * * Integrated Collaborative Research Platform, ERP, GIS/Beidou application, UAV, and so on.<br><br>
       Love thinking, love philosophy, love communication, love to implement ideas with code, and love to help young programmers solve cross-layer and cross-border problems.<br><br>
       Ever studied and worked abroad for a long time, understood Western thinking, was good at combining Chinese and Western thought and culture, and had strong systematic thinking ability.<br><br>
       My slogan is: Learn from Young People!
