@@ -1,4 +1,3 @@
-
 # About me
 
 ## Arthur Q. W. (ArthurTreeNewBee)
@@ -80,7 +79,7 @@ It has some magical characteristics of a holographic organic system: data and ex
     Loves programming, and switched from geophysical exploration to programming in the VMS/DOS/Unix era. <br><br>
     Used various languages including FORTRAN, SQL, BASIC, C, HTML, ASP, JS, ..., and even Python, but now just for preventing myself from dementia in old age. <br><br>
     </td>
-    <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
+    <td><img alt="BSV Logo"  src="./_/my_tools.png"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -93,7 +92,8 @@ It has some magical characteristics of a holographic organic system: data and ex
   </tr>
 </table>
 <br><br>
-<br><br>
+<br>
+
 # 自我介绍
 
 ## 阿色树新风
@@ -173,12 +173,12 @@ It has some magical characteristics of a holographic organic system: data and ex
     酷爱编程，VMS/DOS/Unix时代从地球物理勘探专业转行入坑的老程序员，从FORTRAN、SQL、BASIC、C、HTML、ASP、JS、……，一直到现在的Python，都玩过。<br><br>
     但现在只是玩，主要是为了防止老年痴呆。<br><br>
     </td>
-    <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
+    <td><img alt="BSV Logo"  src="./_/my_tools.png"></td>
   </tr>
   <tr>
     <td colspan="2">
    主持参与过各级各种大中小型信息化数智化项目，包括GJ重大专项***智能化子课题、分布式大型云数据中心、超级央企智慧指挥中心、物联网产业基地、***一体化协同研究平台、ERP、GIS、无人机……<br><br>
-      爱思考，爱哲学，爱交流，爱把想法用代码实现，最爱帮助小程序员们解决跨层跨界的问题。<br><br>
+      爱思考，爱哲学，爱交流，爱把想法用代码实现，最爱帮助小程序猿们解决跨层跨界的问题。<br><br>
       年轻时曾较长期在发达国家学习工作，理解西方思维，擅长中西合璧，具有较强系统思维能力。<br><br>
       我的口号是：向年轻人学习！
       <br><br>
