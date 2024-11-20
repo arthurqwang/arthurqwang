@@ -3,9 +3,21 @@
 
 ## Arthur Q. W.
 ### ☑️ As the Founder of Thought of Big Systems View
-Proposed a pioneering thought, the idea of Big Systems View (BSV), based on traditional systems theory and systems engineering thinking, and combined with own long-term and rich experience in IT systems construction.
+<table border="10">
+  <tr>
+    <td>
+      <br>
+    Proposed a pioneering thought, the idea of Big Systems View (BSV), based on traditional systems theory and systems engineering thinking, and combined with own long-term and rich experience in IT systems construction.<br><br>
+    BSV mainly includes System Structure Dynamics, Holographic Organic System Theory, BSV Philosophy and relevant methodologies, which are applied in the domain of Digital/Intelligent Oilfields and AI development applications.<br><br>
+    </td>
+    <td style="background-color: black;"><img alt="BSV Logo" width="200" src="./_/100.jpg"></td>
+  </tr>
 
-BSV mainly includes System Structure Dynamics, Holographic Organic System Theory, BSV Philosophy and relevant methodologies, which are applied in the domain of Digital/Intelligent Oilfields and AI development applications.
+</table>
+
+
+
+
 ### ☑️ As the Author of _Big Systems View_
 In 2016, completed the open source book, _Big Systems View: Bigger outlook, bigger thinking, bigger frame, bigger promotion on the world_. The book rejects the traditional publishing mode, and adopts the form of directly publishing the electronic version on the Internet and inviting everyone to co_compile it, setting a precedent for free and open source electronic books. The book immediately caused a significant response in the relevant fields after its release.
 
