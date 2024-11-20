@@ -57,7 +57,7 @@
 <table border="10">
     <td>
     <br>
-    In 2022, invented a new kind of mind map called Arthur's Holographic Mind Map (AHMM) based on the principles of the Big Systems View, and developed specialized software using JavaScript. It is still being continuously updated to this day.<br><br>
+    In 2022, invented a new kind of mind map called Arthur's Holographic Mind Map (AHMM) based on the principles of Big Systems View, and developed specialized software using JavaScript. It is still being continuously updated to this day.<br><br>
     </td>
     <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
   </tr>
