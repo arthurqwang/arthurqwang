@@ -73,7 +73,7 @@ It has some magical characteristics of a holographic organic system: data and ex
 </table>
 <br>
 
-### ☑️ As an Old Programmer Keeping Coding & a Coder Keeping Thinking
+### ☑️ As an Old Programmer Keeping Coding / Coder Keeping Thinking
 
 <br><br>
 # 自我介绍
