@@ -54,6 +54,25 @@
 </table>
 <br>
 
+### ☑️ As the  of Concept of [AHMM]
+<table border="10">
+    <td>
+    <br>
+    In 2022, proposed the concept of Digital Oilfield at first globally.<br><br>
+    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd."  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
+    Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
+    </td>
+    <td><img alt="BSV Logo"  src="./_/DOF_DORA.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Integrating knowledge with action, forming a profound theoretical foundation, and accumulating rich practical experience, proposed powerful methodologies for digital construction in large-scale enterprises  based on the philosophy of Big Systems View.
+      <br><br>
+    </td>
+  </tr>
+</table>
+<br>
+
 ### ☑️ As an Old Programmer Keeping Coding
 
 <br><br>
