@@ -6,7 +6,7 @@
   <tr>
     <td>
       <br>
-        Proposed a pioneering thought, the idea of Big Systems View (BSV), based on traditional systems theory and systems engineering thinking, and combined with own long-term and rich experience in IT systems construction.<br><br>
+        Proposed a pioneering thought, the idea of Big Systems View (BSV), based on traditional systems theory and systems engineering thinking, and combined with own long-term and rich experience in IT & Other systems construction.<br><br>
         BSV mainly includes System Structure Dynamics, Holographic Organic System Theory, BSV Philosophy and relevant methodologies, which are applied in the domain of Digital/Intelligent Oilfields and AI development applications.<br><br>
     </td>
     <td><img alt="BSV Logo" src="./_/BSV_Logo_200.jpg"></td>
