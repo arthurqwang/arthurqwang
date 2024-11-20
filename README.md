@@ -105,6 +105,7 @@ It has some magical characteristics of a holographic organic system: data and ex
   <tr>
     <td colspan="2">
       在原书1.0版本基础上，通过不断迭代，形成了思想更加完备、内容更加丰富的各种资料（PPT课件、视频、公众号、文章等）。所有资料以及原书均可在互联网上检索并下载，或者，到【大系统观】官网：http://www.holomind.com.cn 下载。
+      <br><br>
     </td>
   </tr>
 </table>
