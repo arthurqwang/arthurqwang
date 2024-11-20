@@ -13,6 +13,7 @@
     <td><img alt="BSV Logo" src="./_/BSV_Logo_200.jpg"></td>
   </tr>
 </table>
+<br>
 
 ### ☑️ As the Author of _Big Systems View_
 <table border="10">
@@ -31,8 +32,12 @@
     </td>
   </tr>
 </table>
+<br>
 
 ### ☑️ As the Proposer of Concept of Digital Oilfield
+
+<br>
+
 ### ☑️ As an Old Programmer Keeping Coding
 
 <br><br>
