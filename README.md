@@ -92,15 +92,7 @@ It has some magical characteristics of a holographic organic system: data and ex
     </td>
   </tr>
 </table>
-<br>
-
-
-
-
-
-
-
-
+<br><br>
 <br><br>
 # 自我介绍
 
@@ -166,8 +158,7 @@ It has some magical characteristics of a holographic organic system: data and ex
   <tr>
     <td colspan="2">
     AHMM 用于系统升维思考。世间每项事物都是一个系统，都有一个核心 —— 吸引子@。全息脑图以系统的观点看待世界，专注系统的结构信息——全息，抓住事物的本质，透过表象和数据发现规律。<br><br>
-    阿色全息脑图制作软件 ahmm.html，可在线使用，也可下载后离线使用。
-它具有神奇的全息有机系统的特点：数据与执行码一体化，能自己给自己保存数据，并能够无限运行繁衍，即生成的脑图可以继续生成下一代脑图。
+    阿色全息脑图制作软件 ahmm.html，可在线使用，也可下载后离线使用。它具有神奇的全息有机系统的特点：数据与执行码一体化，能自己给自己保存数据，并能够无限运行繁衍，即生成的脑图可以继续生成下一代脑图。
       <br><br>
     </td>
   </tr>
@@ -175,19 +166,22 @@ It has some magical characteristics of a holographic organic system: data and ex
 <br>
 
 
-### ☑️ As an Old Programmer Keeping Coding
-
-
-
-
-
-[链接1](https://github.com/arthurqwang/arthurqwang/blob/main/_/100.jpg)
-<!---   注释   -->
-<picture>
-  <!--
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.bgithub.xyz/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.bgithub.xyz/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://www.holomind.com.cn/img/bsv_logo.png">
-</picture>
--->
+### ☑️ 保持编程/思考的老程序猿
+<table border="10">
+    <td>
+    <br>
+    酷爱编程，VMS/DOS/Unix时代从地球物理勘探专业转行入坑的老程序员，从FORTRAN、SQL、BASIC、C、HTML、ASP、JS、……，一直到现在的Python，都玩过。<br><br>
+    但现在只是玩，主要是为了防止老年痴呆。<br><br>
+    </td>
+    <td><img alt="BSV Logo"  src="./_/ahmm_logo.png"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+   主持参与过各级各种大中小型信息化数智化项目，包括GJ重大专项***智能化子课题、分布式大型云数据中心、超级央企智慧指挥中心、物联网产业基地、***一体化协同研究平台、ERP、GIS、无人机……<br><br>
+      爱思考，爱哲学，爱交流，爱把想法用代码实现，最爱帮助小程序员们解决跨层跨界的问题。<br><br>
+      年轻时曾较长期在发达国家学习工作，理解西方思维，擅长中西合璧，具有较强系统思维能力。<br><br>
+      我的口号是：向年轻人学习！
+      <br><br>
+    </td>
+  </tr>
+</table>
