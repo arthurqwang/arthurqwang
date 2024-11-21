@@ -23,7 +23,7 @@
       The book rejects the traditional publishing mode, and adopts the form of directly publishing the electronic version on the Internet and inviting everyone to co_compile it, setting a precedent for free and open source electronic books. <br><br>
       The book immediately caused a significant response in the relevant fields after its release.
     </td>
-    <td><img alt="BSV Logo"  src="_/BSV_Book_300.jpg"></td>
+    <td><img alt="BSV Book"  src="_/BSV_Book_300.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -42,7 +42,7 @@
     Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd."  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
     Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
     </td>
-    <td><img alt="BSV Logo"  src="_/DOF_DORA.jpg"></td>
+    <td><img alt="DOF DORA"  src="_/DOF_DORA.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -59,7 +59,7 @@
     <br>
     In 2022, invented a new kind of mind map called Arthur's Holographic Mind Map (AHMM) based on the principles of Big Systems View, and developed specialized software using JavaScript. It is still being continuously updated to this day.<br><br>
     </td>
-    <td><img alt="BSV Logo"  src="_/ahmm_logo.png"></td>
+    <td><img alt="AHMM Logo"  src="_/ahmm_logo.png"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -79,7 +79,7 @@ It has some magical characteristics of a holographic organic system: data and ex
     Love programming, and switched from geophysical exploration to programming in the VMS/DOS/Unix era. <br><br>
     Used various languages including FORTRAN, SQL, BASIC, C, HTML, ASP, JS, ..., and even Python, but now just for preventing myself from dementia in old age by coding. <br><br>
     </td>
-    <td><img alt="BSV Logo"  src="_/my_tools.png"></td>
+    <td><img alt="Tools Logos"  src="_/my_tools.png"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -94,7 +94,7 @@ It has some magical characteristics of a holographic organic system: data and ex
 
 ### Welcome to Web Site / WeChat Official Account of BSV
 http://www.holomind.com.cn <br>
-<img alt="BSV Logo" src="_/wechat_code.jpg">
+<img alt="BSV WeChat Code" src="_/wechat_code.jpg">
 
 <br><br>
 <br>
@@ -123,7 +123,7 @@ http://www.holomind.com.cn <br>
       该书拒绝传统出版模式，采用在互联网上直接发布电子版并邀请大家共同编著的形式，开辟了免费开源电子著作的先例。 <br><br>
       该书发布后立即在相关领域内引起较大反响。
     </td>
-    <td><img alt="BSV Logo"  src="_/BSV_Book_300.jpg" height="200"></td>
+    <td><img alt="BSV Book"  src="_/BSV_Book_300.jpg" height="200"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -141,7 +141,7 @@ http://www.holomind.com.cn <br>
     1999年，在全球范围内最先提出数字油田(Digital Oilfield)理念。<br><br>
     多年来陆续发表《大庆油田有限责任公司数字油田模式与发展战略研究》等大量学术论文，引领中国数字/智能油田研究与建设浪潮。<br><br>
     </td>
-    <td><img alt="BSV Logo"  src="_/DOF_DORA.jpg"  height="150"></td>
+    <td><img alt="DOF DORA"  src="_/DOF_DORA.jpg"  height="150"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -158,7 +158,7 @@ http://www.holomind.com.cn <br>
     <br>
     2022年，应用大系统观思想原理，发明了一种新的思维导图——阿色全息脑图（AHMM, Arthur's Holographic Mind Map），并用 JavaScript 开发了专用软件，至今仍在持续更新。<br><br>
     </td>
-    <td><img alt="BSV Logo"  src="_/ahmm_logo.png"></td>
+    <td><img alt="AHMM Logo"  src="_/ahmm_logo.png"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -178,7 +178,7 @@ http://www.holomind.com.cn <br>
     酷爱编程，VMS/DOS/Unix时代从地球物理勘探专业转行入坑的老程序员，从FORTRAN、SQL、BASIC、C、HTML、ASP、JS、……，一直到现在的Python，都玩过。<br><br>
     但现在只是玩，主要是为了防止老年痴呆。<br><br>
     </td>
-    <td><img alt="BSV Logo"  src="_/my_tools.png"></td>
+    <td><img alt="Tools Logos"  src="_/my_tools.png"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -193,4 +193,4 @@ http://www.holomind.com.cn <br>
 
 ### 欢迎访问大系统观官网 / 微信公众号
 http://www.holomind.com.cn <br>
-<img alt="BSV Logo" src="./_/wechat_code.jpg">
+<img alt="BSV WeChat Code" src="./_/wechat_code.jpg">
