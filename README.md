@@ -49,7 +49,7 @@
       Integrating knowledge with action, forming a profound theoretical foundation, and accumulating rich practical experience, proposed powerful methodologies for digital construction in large-scale enterprises  based on the philosophy of Big Systems View.<br><br>
       In 2003, independently developed, hosted, and operated the [Digital Oilfield Forum] website, providing a communication platform for experts, scholars, entrepreneurs, engineers, managers, and service providers in the global DOF Domain, and having a significant influence in the industry.<br><br>
 In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields], which adopts an integrated online and offline approach to conduct research, application, communication, and cooperation on digital/smart/intelligent oilfield construction, striving to promote the development of construction of IDOF.<br><br>
-      <img alt="DOF DORA"  src="_/DOF_WEB.png"  height="150">
+      <img alt="DOF DORA"  src="_/DOF_WEB.png">
       <br><br>
     </td>
   </tr>
@@ -151,7 +151,7 @@ http://www.holomind.com.cn <br>
       同时，全心投身到数智油田建设实践洪流之中，知行合一，形成了深厚的理论积淀，积累了丰富的实践经验，提出了以大系统观为思想基座的大型企业数智化建设方法论。 <br><br>
       2003年，独立开发并主持运营【数字油田论坛】网站，为全球数字油田建设的专家、学者、企业家、工程师、管理人员以及服务商提供了交流平台，在业界具有较大影响力。<br><br>
       2013年，联合创立【智能数字油田开放论坛】，采用线上线下一体化的方式，开展油田数智化建设的研究、应用、交流与合作，努力推动数智油田建设发展。<br><br>
-      <img alt="DOF DORA"  src="_/DOF_WEB.png"  height="150">
+      <img alt="DOF DORA"  src="_/DOF_WEB.png">
       <br><br>
     </td>
   </tr>
