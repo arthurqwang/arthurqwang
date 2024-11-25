@@ -70,6 +70,8 @@ In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields],
 Software ahmm.html can be used online or downloaded for offline use.
 It has some magical characteristics of a holographic organic system: data and execution code are integrated, it can save data for itself, and can infinitely run and reproduce, that is, the generated AHMM can continue to generate the next generation.
       <br><br>
+To Use Online: http://www.holomind.com.cn/ahmm/ahmm.html<br><br>
+To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip<br><br>
     </td>
   </tr>
 </table>
@@ -170,7 +172,9 @@ http://www.holomind.com.cn <br>
     <td colspan="2">
     AHMM 用于系统升维思考。世间每项事物都是一个系统，都有一个核心 —— 吸引子@。全息脑图以系统的观点看待世界，专注系统的结构信息——全息，抓住事物的本质，透过表象和数据发现规律。<br><br>
     阿色全息脑图制作软件 ahmm.html，可在线使用，也可下载后离线使用。它具有神奇的全息有机系统的特点：数据与执行码一体化，能自己给自己保存数据，并能够无限运行繁衍，即生成的脑图可以继续生成下一代脑图。
-      <br><br>
+    <br><br>
+    在线使用：http://www.holomind.com.cn/ahmm/ahmm.html<br><br>
+    下载后离线使用：http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip<br><br>
     </td>
   </tr>
 </table>
