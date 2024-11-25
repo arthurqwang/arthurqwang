@@ -11,6 +11,12 @@
     </td>
     <td><img alt="BSV Logo" src="_/BSV_Logo_200.jpg"></td>
   </tr>
+    <tr>
+    <td colspan="2">
+    Official Website of [Big Systems View]: http://www.holomind.com.cn
+  <br><br>
+    </td>
+  </tr>
 </table>
 <br>
 
@@ -116,6 +122,12 @@ http://www.holomind.com.cn <br>
     大系统观思想主要包括系统结构动力学、全息有机系统论、大系统哲学和方法论，在其应用于数字/智能油田、大型企业与组织数智化建设和AI开发领域的过程中，显示出了重要指导作用。<br><br>
     </td>
     <td><img alt="BSV Logo" src="_/BSV_Logo_200.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    【大系统观】官网：http://www.holomind.com.cn
+      <br><br>
+    </td>
   </tr>
 </table>
 <br>
