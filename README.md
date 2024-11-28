@@ -58,7 +58,7 @@
 In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields], which adopts an integrated online and offline approach to conduct research, application, communication, and cooperation on digital/smart/intelligent oilfield construction, striving to promote the development of construction of IDOF.<br><br>
       <img alt="DOF DORA"  src="_/DOF_WEB.png">
       <br>
-      Promotional VideV of DOF:<br>
+      Promotional Video of DOF:<br>
 https://www.iqiyi.com/v_19rtuydpgh.html
       <br><br>
     </td>
