@@ -45,7 +45,7 @@
   <tr>
     <td>
     <br>
-    In 1999, proposed the concept of Digital Oilfield at first globally.<br><br>
+    In 1999, proposed the concept of Digital Oilfield(DO, DOF) at first globally.<br><br>
     Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd."  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
     Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
     </td>
@@ -61,6 +61,9 @@ In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields],
     </td>
   </tr>
 </table>
+
+Promotional VideV of DOF:<br>
+https://www.iqiyi.com/v_19rtuydpgh.html
 <br>
 
 ### ☑️ As the Inventor and Software Author of AHMM
@@ -175,6 +178,8 @@ http://www.holomind.com.cn <br>
     </td>
   </tr>
 </table>
+
+数字油田宣片：<br>https://www.iqiyi.com/v_19rtuydpgh.html
 <br>
 
 ### ☑️ 阿色全息脑图（AHMM）发明者和软件作者
