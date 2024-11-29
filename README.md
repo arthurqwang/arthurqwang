@@ -109,7 +109,7 @@ To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿�
   </tr>
 </table>
 
-* All content listed on GitHub is created by Arthur in my spare time and has no relation to the company I work for.
+☆ All content listed on GitHub is created by Arthur in my spare time and has no relation to the company I work for.
 
 ### Welcome to Web Site / WeChat Official Account of BSV
 http://www.holomind.com.cn <br>
@@ -228,7 +228,7 @@ http://www.holomind.com.cn <br>
   </tr>
 </table>
 
-* 在GitHub所列内容皆为阿色业余时间所做，与职业工作无关。
+☆ 在GitHub所列内容皆为阿色业余时间所做，与职业工作无关。
       
 ### 欢迎访问大系统观官网 / 微信公众号
 http://www.holomind.com.cn <br>
