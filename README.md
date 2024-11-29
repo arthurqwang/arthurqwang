@@ -105,11 +105,11 @@ To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿�
       Ever studied and worked abroad for a long time, understood Western thinking, was good at combining Chinese and Western thought and culture, and had strong systematic thinking ability.<br><br>
       My slogan is: Learn from Young People!
       <br><br>
-       * All content listed on GitHub is created by Arthur in my spare time and has no relation to the company I work for.
-      <br><br>
     </td>
   </tr>
 </table>
+
+* All content listed on GitHub is created by Arthur in my spare time and has no relation to the company I work for.
 
 ### Welcome to Web Site / WeChat Official Account of BSV
 http://www.holomind.com.cn <br>
@@ -224,12 +224,12 @@ http://www.holomind.com.cn <br>
       爱思考，爱哲学，爱交流，爱把想法用代码实现，最爱帮助小程序猿们解决跨层跨界的问题。<br><br>
       年轻时曾较长期在发达国家学习工作，理解西方思维，擅长中西合璧，具有较强系统思维能力。<br><br>
       我的口号是：向年轻人学习！<br><br>
-      * 在GitHub所列内容皆为阿色业余时间所做，与职业工作无关。
-      <br><br>
     </td>
   </tr>
 </table>
 
+* 在GitHub所列内容皆为阿色业余时间所做，与职业工作无关。
+      
 ### 欢迎访问大系统观官网 / 微信公众号
 http://www.holomind.com.cn <br>
 <img alt="BSV WeChat Code" src="./_/wechat_code.jpg">
