@@ -105,6 +105,8 @@ To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿�
       Ever studied and worked abroad for a long time, understood Western thinking, was good at combining Chinese and Western thought and culture, and had strong systematic thinking ability.<br><br>
       My slogan is: Learn from Young People!
       <br><br>
+       * All content listed on GitHub is created by Arthur in my spare time and has no relation to the company I work for.
+      <br><br>
     </td>
   </tr>
 </table>
@@ -221,7 +223,8 @@ http://www.holomind.com.cn <br>
    主持参与过各级各种大中小型信息化数智化研究与应用项目，包括GJ重大专项***智能化子课题、分布式大型云数据中心、超级央企智慧指挥中心、物联网产业基地、***一体化协同研究平台、ERP、GIS/北斗**应用系统、无人机……<br><br>
       爱思考，爱哲学，爱交流，爱把想法用代码实现，最爱帮助小程序猿们解决跨层跨界的问题。<br><br>
       年轻时曾较长期在发达国家学习工作，理解西方思维，擅长中西合璧，具有较强系统思维能力。<br><br>
-      我的口号是：向年轻人学习！
+      我的口号是：向年轻人学习！<br><br>
+      * 在GitHub所列内容皆为阿色业余时间所做，与职业工作无关。
       <br><br>
     </td>
   </tr>
