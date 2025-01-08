@@ -47,7 +47,7 @@
     <td>
     <br>
     In 1999, proposed the concept of Digital Oilfield(DO, DOF) at first globally.<br><br>
-    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd."  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
+    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd." and proposed the Digital Oilfield Reference Architecture over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
     Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
     </td>
     <td><img alt="DOF DORA"  src="_/DOF_DORA.jpg"></td>
@@ -61,6 +61,14 @@ In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields],
       <br>
       Promotional Video of DOF:<br>
 https://www.iqiyi.com/v_19rtuydpgh.html
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <br>
+      In 2024, proposed the Architectrue for Intelligent & Digital Oilfields Based-on AI.<br><br>
+      <img alt="AIDOBAI"  src="AIDOBAI.png">
       <br><br>
     </td>
   </tr>
@@ -168,7 +176,7 @@ http://www.holomind.com.cn <br>
     <td>
     <br>
     1999年，在全球范围内最先提出数字油田(Digital Oilfield)理念。<br><br>
-    多年来陆续发表《大庆油田有限责任公司数字油田模式与发展战略研究》等大量学术论文，引领中国数字/智能油田研究与建设浪潮。<br><br>
+    多年来陆续发表《大庆油田有限责任公司数字油田模式与发展战略研究》等大量学术论文，提出了数字油田参考架构，引领中国数字/智能油田研究与建设浪潮。<br><br>
     </td>
     <td><img alt="DOF DORA"  src="_/DOF_DORA.jpg"  height="150"></td>
   </tr>
@@ -180,6 +188,14 @@ http://www.holomind.com.cn <br>
       <img alt="DOF DORA"  src="_/DOF_WEB.png">
       <br>
       数字油田宣片：<br>https://www.iqiyi.com/v_19rtuydpgh.html
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <br>
+      2024年，提出基于AI底座的数智油气田参考架构。<br><br>
+      <img alt="AIDOBAI"  src="AIDOBAI.png">
       <br><br>
     </td>
   </tr>
